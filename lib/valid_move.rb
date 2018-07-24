@@ -1,5 +1,10 @@
+board = [x, o, o]
 
+index = 1
 
+board[index] => o
+
+board[6] 
 
 
 
